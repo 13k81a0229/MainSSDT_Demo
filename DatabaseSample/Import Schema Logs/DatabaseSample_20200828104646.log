@@ -1,0 +1,6 @@
+28-08-2020 16:16:46	This log contains information about the import schema operation into project 'DatabaseSample' on computer 'PFBADEV026' by user 'maheshreddym'.
+28-08-2020 16:16:46	Deserializing model
+28-08-2020 16:16:46	Internal Error. The database platform service with type Microsoft.Data.Tools.Schema.Sql.Sql140DatabaseSchemaProvider is not valid. You must make sure the service is loaded, or you must provide the full type name of a valid database platform service.
+28-08-2020 16:16:46	Finished importing Data-tier Application file.
+28-08-2020 16:16:46	A summary of the import was saved to the following location: C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\Import Schema Logs\DatabaseSample_20200828104646.log
+28-08-2020 16:16:46	Click Finish to continue...

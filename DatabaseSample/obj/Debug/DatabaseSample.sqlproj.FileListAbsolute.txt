@@ -1,0 +1,7 @@
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.dacpac
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\Model.xml
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\refactor.xml
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\postdeploy.sql
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\predeploy.sql
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.dll
+C:\Users\maheshreddym\Documents\Visual Studio 2013\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb
